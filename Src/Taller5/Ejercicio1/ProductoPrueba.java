@@ -1,4 +1,4 @@
-package Taller5;
+package Taller5.Ejercicio1;
 
 public class ProductoPrueba {
 
