@@ -1,3 +1,4 @@
+Package Ejercicio1;
 public class Estudiante {
 
     private String nombre;
@@ -16,7 +17,7 @@ public class Estudiante {
         return nombre;
     }
     public void setNombre(String nombre) {
-        if (nombre.equals("")) {
+        if (!nombre.equals("")) {
             this.nombre = nombre;
         }  else {
             System.out.println("El nombre no puede estar vacio");
@@ -45,4 +46,7 @@ public class Estudiante {
             System.out.println("La nota promedio debe estar entre 0 y 10");
         }
     }
+}
+
+void main() {
 }
