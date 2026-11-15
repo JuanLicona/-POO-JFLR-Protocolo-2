@@ -13,3 +13,7 @@ modules.xml
 misc.xml
 vcs.xml
 .idea
+out/
+.idea/
+*.class
+
