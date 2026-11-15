@@ -1,4 +1,5 @@
-Package Ejercicio1;
+package Taller4.Ejercicio1;
+
 public class InstanciaEstudiante {
 
     public static void main(String[] args) {
@@ -12,7 +13,4 @@ public class InstanciaEstudiante {
         System.out.println("Nota Promedio:" + estudiante.getNotaPromedio());
     }
 
-}
-
-void main() {
 }

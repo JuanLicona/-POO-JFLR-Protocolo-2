@@ -1,4 +1,5 @@
-Package Ejercicio1;
+package Taller4.Ejercicio1;
+
 public class Estudiante {
 
     private String nombre;
@@ -46,7 +47,4 @@ public class Estudiante {
             System.out.println("La nota promedio debe estar entre 0 y 10");
         }
     }
-}
-
-void main() {
 }
